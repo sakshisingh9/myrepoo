@@ -1,0 +1,4 @@
+ am sakshi singh
+/usr/bin/bash: Q: command not found
+HELLO
+
